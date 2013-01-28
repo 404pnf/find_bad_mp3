@@ -5,11 +5,16 @@
 
 # goal
 
-Pares an xml file. 
+Parses an xml file contains info of all mp3 files.  See test/test.xml
 
 Iterate each item.
 
-print <File name> of those items that don't have a <File Format>
+Print <CompleteName> of those <track> that is not an array.  Therefore, bad, bad mp3 files
+
+# IT HAS NOTHING TO DO WITH PARSING MP3!
+
+input.xml is geneated by MediaInfo
+<mediainfo.sourceforge.net/>
 
 
 
