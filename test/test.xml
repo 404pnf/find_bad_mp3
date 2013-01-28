@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mediainfo version="0.7.61">
+<File>
+<track type="General">
+<CompleteName>D:\itest\tiku\音频\incoming\subject\info\20091021\subjectsources200910211210666.mp3</CompleteName>
+<Format>MPEG Audio</Format>
+<FileSize_String>16.5 KiB</FileSize_String>
+<Duration_String>2s 89ms</Duration_String>
+<OverallBitRate_Mode_String>Constant</OverallBitRate_Mode_String>
+<OverallBitRate_String>64.0 Kbps</OverallBitRate_String>
+<Genre>Other</Genre>
+</track>
+
+<track type="Audio">
+<Format>MPEG Audio</Format>
+<Format_Version>Version 1</Format_Version>
+<Format_Profile>Layer 3</Format_Profile>
+<Format_Settings_Mode>Joint stereo</Format_Settings_Mode>
+<Format_Settings_ModeExtension>Intensity Stereo</Format_Settings_ModeExtension>
+<Duration_String>2s 89ms</Duration_String>
+<BitRate_Mode_String>Constant</BitRate_Mode_String>
+<BitRate_String>64.0 Kbps</BitRate_String>
+<Channel_s__String>2 channels</Channel_s__String>
+<SamplingRate_String>44.1 KHz</SamplingRate_String>
+<Compression_Mode_String>Lossy</Compression_Mode_String>
+<StreamSize_String>16.3 KiB (99%)</StreamSize_String>
+</track>
+
+</File>
+
+<File>
+<track type="概要">
+<CompleteName>C:\Users\tian\Desktop\itest-专八不正常音频\2011081616521502.mp3</CompleteName>
+<FileSize_String>3.15 MiB</FileSize_String>
+</track>
+
+</File>
+</Mediainfo>
